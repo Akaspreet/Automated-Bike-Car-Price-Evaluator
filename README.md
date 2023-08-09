@@ -1,6 +1,5 @@
 # TVS_Epic_IT_Challenge
 
-This project was made in collaboration with @HarshGupta02 (https://github.com/HarshGupta02) for tvs_it_challenge hackathon
 
 In this we were supposed to automate the entire evaluation process of used automobiles such that no human intervention would be required in between.
 For that we devided our project into client side and server side.
